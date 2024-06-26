@@ -7,9 +7,9 @@ Read: Visualizar detalhes de cada livro cadastrado.
 Update: Atualizar informações de livros existentes.
 Delete: Remover livros do sistema.
 <h1>Pré-requisitos</h1>
-Python 3.x
-Django 3.x
-PostgreSQL
+-Python 3.x
+-Django 3.x
+-PostgreSQL
 <h1>Instalação</h1>
 Clone o repositório:
 
